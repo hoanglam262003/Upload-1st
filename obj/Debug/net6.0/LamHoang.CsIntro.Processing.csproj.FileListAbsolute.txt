@@ -1,0 +1,14 @@
+D:\NET1709\Session1-introduction\LamHoang.CsIntro\LamHoang.CsIntro.Processing\bin\Debug\net6.0\LamHoang.CsIntro.Processing.exe
+D:\NET1709\Session1-introduction\LamHoang.CsIntro\LamHoang.CsIntro.Processing\bin\Debug\net6.0\LamHoang.CsIntro.Processing.deps.json
+D:\NET1709\Session1-introduction\LamHoang.CsIntro\LamHoang.CsIntro.Processing\bin\Debug\net6.0\LamHoang.CsIntro.Processing.runtimeconfig.json
+D:\NET1709\Session1-introduction\LamHoang.CsIntro\LamHoang.CsIntro.Processing\bin\Debug\net6.0\LamHoang.CsIntro.Processing.dll
+D:\NET1709\Session1-introduction\LamHoang.CsIntro\LamHoang.CsIntro.Processing\bin\Debug\net6.0\LamHoang.CsIntro.Processing.pdb
+D:\NET1709\Session1-introduction\LamHoang.CsIntro\LamHoang.CsIntro.Processing\obj\Debug\net6.0\LamHoang.CsIntro.Processing.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET1709\Session1-introduction\LamHoang.CsIntro\LamHoang.CsIntro.Processing\obj\Debug\net6.0\LamHoang.CsIntro.Processing.AssemblyInfoInputs.cache
+D:\NET1709\Session1-introduction\LamHoang.CsIntro\LamHoang.CsIntro.Processing\obj\Debug\net6.0\LamHoang.CsIntro.Processing.AssemblyInfo.cs
+D:\NET1709\Session1-introduction\LamHoang.CsIntro\LamHoang.CsIntro.Processing\obj\Debug\net6.0\LamHoang.CsIntro.Processing.csproj.CoreCompileInputs.cache
+D:\NET1709\Session1-introduction\LamHoang.CsIntro\LamHoang.CsIntro.Processing\obj\Debug\net6.0\LamHoang.CsIntro.Processing.dll
+D:\NET1709\Session1-introduction\LamHoang.CsIntro\LamHoang.CsIntro.Processing\obj\Debug\net6.0\refint\LamHoang.CsIntro.Processing.dll
+D:\NET1709\Session1-introduction\LamHoang.CsIntro\LamHoang.CsIntro.Processing\obj\Debug\net6.0\LamHoang.CsIntro.Processing.pdb
+D:\NET1709\Session1-introduction\LamHoang.CsIntro\LamHoang.CsIntro.Processing\obj\Debug\net6.0\LamHoang.CsIntro.Processing.genruntimeconfig.cache
+D:\NET1709\Session1-introduction\LamHoang.CsIntro\LamHoang.CsIntro.Processing\obj\Debug\net6.0\ref\LamHoang.CsIntro.Processing.dll
